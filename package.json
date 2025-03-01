@@ -1,0 +1,16 @@
+{
+  "name": "myprofile-master",
+  "version": "1.0.0",
+  "description": "https://shrisankar.github.io/MyProfile/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "sass ./Sass/style.scss ./css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.85.1"
+  }
+}
